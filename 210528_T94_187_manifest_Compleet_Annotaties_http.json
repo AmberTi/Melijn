@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://data.momu.be/mirador/MelijnT94_187_manifest.json",
+	"@id": "http://AmberTi.github.io/manifest.json",
 	"@type": "sc:Manifest",
 	"label": "Familie Melijn Brievenkopijboek T94/187",
 	"description": "Brievenkopijboek 17e Eeuw",
