@@ -187,14 +187,14 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/63/full/max/0/default.jpg",
+								"@id": "https://hvrd.art/o/299843",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"height": 4639,
 								"width": 3212,
 								"service": {
 									"@context": "https://iiif.io/api/image/2/context.json",
-									"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/63",
+									"@id": "https://hvrd.art/o/299843",
 									"profile": "https://iiif.io/api/image/2/level1.json"
 								}
 							},
