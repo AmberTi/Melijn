@@ -152,7 +152,7 @@
 		"format": "image/jpeg",
 		"service": {
 			"@context": "https://iiif.io/api/image/2/context.json",
-			"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/404",
+			"@id": "https://hvrd.art/o/299843",
 			"profile": "https://iiif.io/api/image/2/level1.json"
 		}
 	},
@@ -183,7 +183,7 @@
 					"images": [
 						{
 							"@context": "https://iiif.io/api/presentation/2/context.json",
-							"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/annotation/341",
+							"@id": "https://hvrd.art/o/299843",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
