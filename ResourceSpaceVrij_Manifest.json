@@ -152,7 +152,7 @@
 		"format": "image/jpeg",
 		"service": {
 			"@context": "https://iiif.io/api/image/2/context.json",
-			"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/404",
+			"@id": "http://www.example.org/image-service/abcd1234/full/full/0/default.jpg",
 			"profile": "https://iiif.io/api/image/2/level1.json"
 		}
 	},
@@ -176,7 +176,7 @@
 						"format": "image/jpeg",
 						"service": {
 							"@context": "https://iiif.io/api/image/2/context.json",
-							"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/63",
+							"@id": "http://www.example.org/image-service/abcd1234/full/full/0/default.jpg",
 							"profile": "https://iiif.io/api/image/2/level1.json"
 						}
 					},
