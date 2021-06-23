@@ -145,7 +145,7 @@
 	],
 	"license": "",
 	"thumbnail": {
-		"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/339",
+		"@id": "http://www.example.org/image-service/abcd1234/full/full/0/default.jpg",
 		"@type": "dctypes:Image",
 		"height": 150,
 		"width": 106,
@@ -183,11 +183,11 @@
 					"images": [
 						{
 							"@context": "https://iiif.io/api/presentation/2/context.json",
-							"@id": "http://www.vggallery.com/painting/p_0448.htm",
+							"@id": "http://www.example.org/image-service/abcd1234/full/full/0/default.jpg",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/63/full/max/0/default.jpg",
+								"@id": "http://www.example.org/image-service/abcd1234/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"height": 4639,
