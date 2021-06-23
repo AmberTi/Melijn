@@ -1,0 +1,208 @@
+{
+	"@context": "https://iiif.io/api/presentation/2/context.json",
+	"@id": "https://data.momu.be/mirador/MelijnT94_187_manifest.json",
+	"@type": "sc:Manifest",
+	"label": "Familie Melijn Brievenkopijboek T94/187",
+	"description": "Brievenkopijboek 17e Eeuw",
+	"metadata": [
+		{
+			"label": "Publisher",
+			"value": [
+				{
+					"@value": "MOMU",
+					"@language": "en"
+				}
+			]
+		},
+		{
+			"label": "Category",
+			"value": []
+		},
+		{
+			"label": "Source Material Type",
+			"value": []
+		},
+		{
+			"label": "Inventory Number",
+			"value": "T94/187"
+		},
+		{
+			"label": "Title",
+			"value": "Familie Melijn"
+		},
+		{
+			"label": "Description",
+			"value": "Brievenkopijboek; Stalenboek"
+		},
+		{
+			"label": "Creator",
+			"value": [
+				{
+					"@value": "Picturae",
+					"@language": "en"
+				}
+			]
+		},
+		{
+			"label": "Contributor",
+			"value": []
+		},
+		{
+			"label": "Artwork Creator",
+			"value": [
+				{
+					"@value": "Familie Melijn",
+					"@language": "en"
+				}
+			]
+		},
+		{
+			"label": "Person In Image",
+			"value": []
+		},
+		{
+			"label": "Artwork Date",
+			"value": "1695-00-00,1697-00-00"
+		},
+		{
+			"label": "Keywords",
+			"value": [
+				{
+					"@value": "187_0342.jpg",
+					"@language": "en"
+				}
+			]
+		},
+		{
+			"label": "Location",
+			"value": ""
+		},
+		{
+			"label": "Event",
+			"value": []
+		},
+		{
+			"label": "License",
+			"value": [
+				{
+					"@value": "Publiek domein",
+					"@language": "en"
+				}
+			]
+		},
+		{
+			"label": "Copyright Owner",
+			"value": []
+		},
+		{
+			"label": "Artwork Copyright Owner",
+			"value": []
+		},
+		{
+			"label": "Licensor",
+			"value": []
+		},
+		{
+			"label": "Copyright Notice",
+			"value": "© ModeMuseum Antwerpen"
+		},
+		{
+			"label": "Credit",
+			"value": "Collectie MoMu Modemuseum Antwerpen"
+		},
+		{
+			"label": "External Note",
+			"value": ""
+		},
+		{
+			"label": "Color or Black & White",
+			"value": []
+		},
+		{
+			"label": "File Format",
+			"value": "JPEG"
+		},
+		{
+			"label": "File size",
+			"value": "3.5 MB"
+		},
+		{
+			"label": "Original Time & Date",
+			"value": "2015-11-27 12:23:28"
+		},
+		{
+			"label": "Original filename",
+			"value": "MOMU_T94_187_RS48244hpr_0342.jpg"
+		},
+		{
+			"label": "TMS Object ID",
+			"value": "11519"
+		},
+		{
+			"label": "Camera make / model",
+			"value": "Leaf Aptus-II 12(LI400087   )/Large Format"
+		}
+	],
+	"license": "",
+	"thumbnail": {
+		"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/339",
+		"@type": "dctypes:Image",
+		"height": 150,
+		"width": 106,
+		"format": "image/jpeg",
+		"service": {
+			"@context": "https://iiif.io/api/image/2/context.json",
+			"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/404",
+			"profile": "https://iiif.io/api/image/2/level1.json"
+		}
+	},
+	"sequences": [
+		{
+			"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/sequence/normal",
+			"@type": "sc:Sequence",
+			"label": "Default order",
+			"canvases": [
+				{
+					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/341",
+					"@type": "sc:Canvas",
+					"label": "1",
+					"height": 4639,
+					"width": 3212,
+					"thumbnail": {
+						"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/63/full/thm/0/default.jpg",
+						"@type": "dctypes:Image",
+						"height": 150,
+						"width": 104,
+						"format": "image/jpeg",
+						"service": {
+							"@context": "https://iiif.io/api/image/2/context.json",
+							"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/63",
+							"profile": "https://iiif.io/api/image/2/level1.json"
+						}
+					},
+					"images": [
+						{
+							"@context": "https://iiif.io/api/presentation/2/context.json",
+							"@id": "http://www.vggallery.com/painting/p_0448.htm",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/63/full/max/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 4639,
+								"width": 3212,
+								"service": {
+									"@context": "https://iiif.io/api/image/2/context.json",
+									"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/63",
+									"profile": "https://iiif.io/api/image/2/level1.json"
+								}
+							},
+							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/341"
+						}
+					]
+				}
+			]
+		}
+	]
+}
