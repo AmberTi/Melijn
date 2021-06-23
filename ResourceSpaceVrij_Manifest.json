@@ -169,7 +169,7 @@
 					"height": 4639,
 					"width": 3212,
 					"thumbnail": {
-						"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/63/full/thm/0/default.jpg",
+						"@id": "http://www.example.org/image-service/abcd1234/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"height": 150,
 						"width": 104,
