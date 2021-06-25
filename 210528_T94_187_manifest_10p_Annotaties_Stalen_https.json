@@ -1,0 +1,685 @@
+{
+	"@context": "https://iiif.io/api/presentation/2/context.json",
+	"@id": "https://data.momu.be/mirador/MelijnT94_187_manifest.json",
+	"@type": "sc:Manifest",
+	"label": "Familie Melijn Brievenkopijboek T94/187",
+	"description": "Brievenkopijboek 17e Eeuw",
+	"metadata": [
+		{
+			"label": "Publisher",
+			"value": [
+				{
+					"@value": "MOMU",
+					"@language": "en"
+				}
+			]
+		},
+		{
+			"label": "Category",
+			"value": []
+		},
+		{
+			"label": "Source Material Type",
+			"value": []
+		},
+		{
+			"label": "Inventory Number",
+			"value": "T94/187"
+		},
+		{
+			"label": "Title",
+			"value": "Familie Melijn"
+		},
+		{
+			"label": "Description",
+			"value": "Brievenkopijboek; Stalenboek"
+		},
+		{
+			"label": "Creator",
+			"value": [
+				{
+					"@value": "Picturae",
+					"@language": "en"
+				}
+			]
+		},
+		{
+			"label": "Contributor",
+			"value": []
+		},
+		{
+			"label": "Artwork Creator",
+			"value": [
+				{
+					"@value": "Familie Melijn",
+					"@language": "en"
+				}
+			]
+		},
+		{
+			"label": "Person In Image",
+			"value": []
+		},
+		{
+			"label": "Artwork Date",
+			"value": "1695-00-00,1697-00-00"
+		},
+		{
+			"label": "Keywords",
+			"value": [
+				{
+					"@value": "187_0342.jpg",
+					"@language": "en"
+				}
+			]
+		},
+		{
+			"label": "Location",
+			"value": ""
+		},
+		{
+			"label": "Event",
+			"value": []
+		},
+		{
+			"label": "License",
+			"value": [
+				{
+					"@value": "Publiek domein",
+					"@language": "en"
+				}
+			]
+		},
+		{
+			"label": "Copyright Owner",
+			"value": []
+		},
+		{
+			"label": "Artwork Copyright Owner",
+			"value": []
+		},
+		{
+			"label": "Licensor",
+			"value": []
+		},
+		{
+			"label": "Copyright Notice",
+			"value": "© ModeMuseum Antwerpen"
+		},
+		{
+			"label": "Credit",
+			"value": "Collectie MoMu Modemuseum Antwerpen"
+		},
+		{
+			"label": "External Note",
+			"value": ""
+		},
+		{
+			"label": "Color or Black & White",
+			"value": []
+		},
+		{
+			"label": "File Format",
+			"value": "JPEG"
+		},
+		{
+			"label": "File size",
+			"value": "3.5 MB"
+		},
+		{
+			"label": "Original Time & Date",
+			"value": "2015-11-27 12:23:28"
+		},
+		{
+			"label": "Original filename",
+			"value": "MOMU_T94_187_RS48244hpr_0342.jpg"
+		},
+		{
+			"label": "TMS Object ID",
+			"value": "11519"
+		},
+		{
+			"label": "Camera make / model",
+			"value": "Leaf Aptus-II 12(LI400087   )/Large Format"
+		}
+	],
+	"license": "",
+	"thumbnail": {
+		"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/339",
+		"@type": "dctypes:Image",
+		"height": 150,
+		"width": 106,
+		"format": "image/jpeg",
+		"service": {
+			"@context": "https://iiif.io/api/image/2/context.json",
+			"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/404",
+			"profile": "https://iiif.io/api/image/2/level1.json"
+		}
+	},
+	"sequences": [
+		{
+			"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/sequence/normal",
+			"@type": "sc:Sequence",
+			"label": "Default order",
+			"canvases": [
+				{
+					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/323",
+					"@type": "sc:Canvas",
+					"label": "19",
+					"height": 4614,
+					"width": 7593,
+					"thumbnail": {
+						"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/81/full/thm/0/default.jpg",
+						"@type": "dctypes:Image",
+						"height": 91,
+						"width": 150,
+						"format": "image/jpeg",
+						"service": {
+							"@context": "https://iiif.io/api/image/2/context.json",
+							"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/81",
+							"profile": "https://iiif.io/api/image/2/level1.json"
+						}
+					},
+					"images": [
+						{
+							"@context": "https://iiif.io/api/presentation/2/context.json",
+							"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/annotation/323",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/81/full/max/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 4614,
+								"width": 7593,
+								"service": {
+									"@context": "https://iiif.io/api/image/2/context.json",
+									"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/81",
+									"profile": "https://iiif.io/api/image/2/level1.json"
+								}
+							},
+							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/323"
+						}
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47921hpr_0019.xml", 
+    					"format": "text/xml", 
+    					"profile": "https://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
+				},
+				{
+					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322",
+					"@type": "sc:Canvas",
+					"label": "20",
+					"height": 4613,
+					"width": 7602,
+					"thumbnail": {
+						"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/82/full/thm/0/default.jpg",
+						"@type": "dctypes:Image",
+						"height": 91,
+						"width": 150,
+						"format": "image/jpeg",
+						"service": {
+							"@context": "https://iiif.io/api/image/2/context.json",
+							"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/82",
+							"profile": "https://iiif.io/api/image/2/level1.json"
+						}
+					},
+					"images": [
+						{
+							"@context": "https://iiif.io/api/presentation/2/context.json",
+							"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/annotation/322",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/82/full/max/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 4613,
+								"width": 7602,
+								"service": {
+									"@context": "https://iiif.io/api/image/2/context.json",
+									"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/82",
+									"profile": "https://iiif.io/api/image/2/level1.json"
+								}
+							},
+							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/322"
+						}
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47922hpr_0020.xml", 
+    					"format": "text/xml", 
+    					"profile": "https://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
+				},
+				{
+					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/321",
+					"@type": "sc:Canvas",
+					"label": "21",
+					"height": 4612,
+					"width": 9140,
+					"thumbnail": {
+						"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/83/full/thm/0/default.jpg",
+						"@type": "dctypes:Image",
+						"height": 76,
+						"width": 150,
+						"format": "image/jpeg",
+						"service": {
+							"@context": "https://iiif.io/api/image/2/context.json",
+							"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/83",
+							"profile": "https://iiif.io/api/image/2/level1.json"
+						}
+					},
+					"images": [
+						{
+							"@context": "https://iiif.io/api/presentation/2/context.json",
+							"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/annotation/321",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/83/full/max/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 4612,
+								"width": 9140,
+								"service": {
+									"@context": "https://iiif.io/api/image/2/context.json",
+									"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/83",
+									"profile": "https://iiif.io/api/image/2/level1.json"
+								}
+							},
+							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/321"
+						}
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47923hpr_0021.xml", 
+    					"format": "text/xml", 
+    					"profile": "https://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
+				},
+				{
+					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/320",
+					"@type": "sc:Canvas",
+					"label": "22",
+					"height": 4611,
+					"width": 7603,
+					"thumbnail": {
+						"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/84/full/thm/0/default.jpg",
+						"@type": "dctypes:Image",
+						"height": 91,
+						"width": 150,
+						"format": "image/jpeg",
+						"service": {
+							"@context": "https://iiif.io/api/image/2/context.json",
+							"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/84",
+							"profile": "https://iiif.io/api/image/2/level1.json"
+						}
+					},
+					"images": [
+						{
+							"@context": "https://iiif.io/api/presentation/2/context.json",
+							"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/annotation/320",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/84/full/max/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 4611,
+								"width": 7603,
+								"service": {
+									"@context": "https://iiif.io/api/image/2/context.json",
+									"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/84",
+									"profile": "https://iiif.io/api/image/2/level1.json"
+								}
+							},
+							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/320"
+						}
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47924hpr_0022.xml", 
+    					"format": "text/xml", 
+    					"profile": "https://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
+				},
+				{
+					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/319",
+					"@type": "sc:Canvas",
+					"label": "23",
+					"height": 4611,
+					"width": 7603,
+					"thumbnail": {
+						"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/85/full/thm/0/default.jpg",
+						"@type": "dctypes:Image",
+						"height": 91,
+						"width": 150,
+						"format": "image/jpeg",
+						"service": {
+							"@context": "https://iiif.io/api/image/2/context.json",
+							"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/85",
+							"profile": "https://iiif.io/api/image/2/level1.json"
+						}
+					},
+					"images": [
+						{
+							"@context": "https://iiif.io/api/presentation/2/context.json",
+							"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/annotation/319",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/85/full/max/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 4611,
+								"width": 7603,
+								"service": {
+									"@context": "https://iiif.io/api/image/2/context.json",
+									"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/85",
+									"profile": "https://iiif.io/api/image/2/level1.json"
+								}
+							},
+							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/319"
+						}
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47925hpr_0023.xml", 
+    					"format": "text/xml", 
+    					"profile": "https://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
+				},
+				{
+					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/318",
+					"@type": "sc:Canvas",
+					"label": "24",
+					"height": 4610,
+					"width": 7606,
+					"thumbnail": {
+						"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/86/full/thm/0/default.jpg",
+						"@type": "dctypes:Image",
+						"height": 91,
+						"width": 150,
+						"format": "image/jpeg",
+						"service": {
+							"@context": "https://iiif.io/api/image/2/context.json",
+							"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/86",
+							"profile": "https://iiif.io/api/image/2/level1.json"
+						}
+					},
+					"images": [
+						{
+							"@context": "https://iiif.io/api/presentation/2/context.json",
+							"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/annotation/318",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/86/full/max/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 4610,
+								"width": 7606,
+								"service": {
+									"@context": "https://iiif.io/api/image/2/context.json",
+									"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/86",
+									"profile": "https://iiif.io/api/image/2/level1.json"
+								}
+							},
+							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/318"
+						}
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47926hpr_0024.xml", 
+    					"format": "text/xml", 
+    					"profile": "https://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
+				},
+				{
+					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/317",
+					"@type": "sc:Canvas",
+					"label": "25",
+					"height": 4609,
+					"width": 8188,
+					"thumbnail": {
+						"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/87/full/thm/0/default.jpg",
+						"@type": "dctypes:Image",
+						"height": 84,
+						"width": 150,
+						"format": "image/jpeg",
+						"service": {
+							"@context": "https://iiif.io/api/image/2/context.json",
+							"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/87",
+							"profile": "https://iiif.io/api/image/2/level1.json"
+						}
+					},
+					"images": [
+						{
+							"@context": "https://iiif.io/api/presentation/2/context.json",
+							"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/annotation/317",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/87/full/max/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 4609,
+								"width": 8188,
+								"service": {
+									"@context": "https://iiif.io/api/image/2/context.json",
+									"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/87",
+									"profile": "https://iiif.io/api/image/2/level1.json"
+								}
+							},
+							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/317"
+						}
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47927hpr_0025.xml", 
+    					"format": "text/xml", 
+    					"profile": "https://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
+				},
+				{
+					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/316",
+					"@type": "sc:Canvas",
+					"label": "26",
+					"height": 4609,
+					"width": 7608,
+					"thumbnail": {
+						"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/88/full/thm/0/default.jpg",
+						"@type": "dctypes:Image",
+						"height": 91,
+						"width": 150,
+						"format": "image/jpeg",
+						"service": {
+							"@context": "https://iiif.io/api/image/2/context.json",
+							"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/88",
+							"profile": "https://iiif.io/api/image/2/level1.json"
+						}
+					},
+					"images": [
+						{
+							"@context": "https://iiif.io/api/presentation/2/context.json",
+							"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/annotation/316",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/88/full/max/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 4609,
+								"width": 7608,
+								"service": {
+									"@context": "https://iiif.io/api/image/2/context.json",
+									"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/88",
+									"profile": "https://iiif.io/api/image/2/level1.json"
+								}
+							},
+							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/316"
+						}
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47928hpr_0026.xml", 
+    					"format": "text/xml", 
+    					"profile": "https://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
+				},
+				{
+					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/315",
+					"@type": "sc:Canvas",
+					"label": "27",
+					"height": 4608,
+					"width": 7612,
+					"thumbnail": {
+						"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/89/full/thm/0/default.jpg",
+						"@type": "dctypes:Image",
+						"height": 91,
+						"width": 150,
+						"format": "image/jpeg",
+						"service": {
+							"@context": "https://iiif.io/api/image/2/context.json",
+							"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/89",
+							"profile": "https://iiif.io/api/image/2/level1.json"
+						}
+					},
+					"images": [
+						{
+							"@context": "https://iiif.io/api/presentation/2/context.json",
+							"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/annotation/315",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/89/full/max/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 4608,
+								"width": 7612,
+								"service": {
+									"@context": "https://iiif.io/api/image/2/context.json",
+									"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/89",
+									"profile": "https://iiif.io/api/image/2/level1.json"
+								}
+							},
+							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/315"
+						}
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47929hpr_0027.xml", 
+    					"format": "text/xml", 
+    					"profile": "https://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
+				},
+				{
+					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/314",
+					"@type": "sc:Canvas",
+					"label": "28",
+					"height": 4608,
+					"width": 7614,
+					"thumbnail": {
+						"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/90/full/thm/0/default.jpg",
+						"@type": "dctypes:Image",
+						"height": 91,
+						"width": 150,
+						"format": "image/jpeg",
+						"service": {
+							"@context": "https://iiif.io/api/image/2/context.json",
+							"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/90",
+							"profile": "https://iiif.io/api/image/2/level1.json"
+						}
+					},
+					"images": [
+						{
+							"@context": "https://iiif.io/api/presentation/2/context.json",
+							"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/annotation/314",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/90/full/max/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 4608,
+								"width": 7614,
+								"service": {
+									"@context": "https://iiif.io/api/image/2/context.json",
+									"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/90",
+									"profile": "https://iiif.io/api/image/2/level1.json"
+								}
+							},
+							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/314"
+						}
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47930hpr_0028.xml", 
+    					"format": "text/xml", 
+    					"profile": "https://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
+				},
+				{
+					"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/313",
+					"@type": "sc:Canvas",
+					"label": "29",
+					"height": 4607,
+					"width": 7616,
+					"thumbnail": {
+						"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/91/full/thm/0/default.jpg",
+						"@type": "dctypes:Image",
+						"height": 91,
+						"width": 150,
+						"format": "image/jpeg",
+						"service": {
+							"@context": "https://iiif.io/api/image/2/context.json",
+							"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/91",
+							"profile": "https://iiif.io/api/image/2/level1.json"
+						}
+					},
+					"images": [
+						{
+							"@context": "https://iiif.io/api/presentation/2/context.json",
+							"@id": "https://museumstichting.resourcespace.com:8443/iiif/11519/annotation/313",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/91/full/max/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 4607,
+								"width": 7616,
+								"service": {
+									"@context": "https://iiif.io/api/image/2/context.json",
+									"@id": "https://museumstichting.resourcespace.com:8443/iiif/image/91",
+									"profile": "https://iiif.io/api/image/2/level1.json"
+								}
+							},
+							"on": "https://museumstichting.resourcespace.com:8443/iiif/11519/canvas/313"
+						}
+					], 
+
+					"seeAlso": { 
+    					"@id": "https://data.momu.be/melijn/T94_187/alto/MOMU_T94_187_RS47931hpr_0029.xml", 
+    					"format": "text/xml", 
+    					"profile": "https://www.loc.gov/standards/alto/v3/alto.xsd", 
+        				"label": "METS-ALTO XML" 
+					}
+				}
+			]
+		}
+	]
+}
